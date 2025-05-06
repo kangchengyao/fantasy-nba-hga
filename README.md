@@ -19,7 +19,7 @@ This project implements a Hybrid Genetic Algorithm (HGA) to optimize Fantasy NBA
 ### 📈 Convergence Curve
 ![Convergence Curve](img/convergence_last_season.jpg)
 ![Convergence Curve](img/convergence_this_season_mid.jpg)
-![Convergence Curve](img/convergence_this_season_final.jpg)
+![Convergence Curve](img/convergence_this_season_end.jpg)
 ### 🏀 Injury-Adjusted Player Scores
 ![Injury Adjustment](img/pic1.png)
 ![Injury Adjustment](img/pic2.png)
