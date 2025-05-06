@@ -15,9 +15,16 @@ This project implements a Hybrid Genetic Algorithm (HGA) to optimize Fantasy NBA
 ## How to Run
 1. Put your dataset files into `data/`
 2. Run the desired script from `src/`, e.g.:
+
+## Results and Convergence
+
+### 📈 Convergence Curve
+![Convergence Curve](img/convergence_this_season_mid.png)
+
+### 🏀 Injury-Adjusted Player Scores
+![Injury Adjustment](img/injury_adjusted_players.png)
 ```bash
 python src/hga_last_season.py
 ## Results and Convergence
 
-### Convergence Curve Example:
-![Convergence Curve](img/convergence_this_season_mid.png)
+
